@@ -1,29 +1,31 @@
 ## 👋 Hi, I’m @brutucas
 
-Welcome to my GitHub page! I’m a Data Scientist and AI/ML Engineer with a passion for transforming data into insight, and deploying state-of-the-art generative-AI to meet customer and community needs. 
+Welcome to my GitHub page! 
 
-I am currently focused on advancing my skills in advanced Python, Data Analysis, Time Series, NLP, Hugging Face transformer models, and LLMs.
+I’m a Data Scientist and AI/ML Engineer with a passion for transforming data into insight, and deploying state-of-the-art generative-AI to meet customer and community needs. 
+
+I am currently focused on advancing my skills in advanced Python, Data Analysis, Time Series, NLP, Hugging Face, and LLMs.
 
 🌱 Things I’m currently working on:
 
-Mastering advanced machine learning techniques
-Creating Data and AI content and AI ethics course
-Developing and optimizing NLP models for real-world applications
-Collaborating on innovative data-driven projects
+- Mastering advanced machine learning techniques
+- Creating Data and AI content and AI ethics course
+- Developing and optimizing NLP models for real-world applications
+- Collaborating on innovative data-driven projects
 
 💪 Personal challenges:
 
-Getting a $500k AI job in the tech world before my 35th birthday.
-Coding every day to refine my skills and stay job-ready
-Building helpful generative-AI to meet real-world business needs.
-Expanding my knowledge with continuous learning and professional growth
+- Getting a $500k AI job in the tech world before my 35th birthday.
+- Coding every day to refine my skills and stay job-ready
+- Building helpful generative-AI to meet real-world business needs.
+- Expanding my knowledge with continuous learning and professional growth
 
 💻 Skills and tools:
 
-Languages: Python, SQL, Excel
-Data Tools: Pandas, Tableau, Matplotlib, Streamlit, AWS, GCP
-ML Techniques: Pyspark, SciKit Learn, NLP, HuggingFace, PyTorch
-General Skills: Agile, GitHub, AI Ethics, Data Visualization
+- Languages: Python, SQL, Excel
+- Data Tools: Pandas, Tableau, Matplotlib, Streamlit, AWS, GCP
+- ML Techniques: Pyspark, SciKit Learn, NLP, HuggingFace, PyTorch
+- General Skills: Agile, GitHub, AI Ethics, Data Visualization
 
 🚀 Exciting Projects:
 
