@@ -27,16 +27,16 @@ General Skills: Agile, GitHub, AI Ethics, Data Visualization
 
 🚀 Exciting Projects:
 
-Machinery AI Agent: Developed a custom AI product to assist customers with machine legislation and safety standards.
-Kepler RAG Chatbot: Built and deployed a chatbot for an online education provider with custom course and teacher data.
-TrollTracker: Enhanced sentiment analysis and classification of Russian troll tweetsets.
-VocalForge: Created an AI-powered TTS model for audiobook production.
-Shaolin.FC: Built a dynamic 'Moneyball' football data dashboard w/ deployed Streamlit app.
+- Machinery AI Agent: Developed a custom AI product to assist customers with machine legislation and safety standards.
+- Kepler RAG Chatbot: Built and deployed a chatbot for an online education provider with custom course and teacher data.
+- TrollTracker: Enhanced sentiment analysis and classification of Russian troll tweetsets.
+- VocalForge: Created an AI-powered TTS model for audiobook production.
+- Shaolin.FC: Built a dynamic 'Moneyball' football data dashboard w/ deployed Streamlit app.
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/benjamin-lucas-ba7143296/) | [Gmail](benlucas6@gmail.com) | [Portfolio](https://brutucas.github.io/portfolio/)
 
 ⚡ Fun facts: 
 
-Not only a lifelong learner, I am a polyglot and enthusiastic linguist, speaking 6 languages (English, German, French, Spanish, Russian, Czech)
-Over the past 8 years, I have worked at elite boarding schools, including the most expensive school in the world.
-I’ve led initiatives to integrate AI ethics into education, significantly boosting student engagement and achievement.
+- Not only a lifelong learner, I am a polyglot and enthusiastic linguist, speaking 6 languages (English, German, French, Spanish, Russian, Czech)
+- Over the past 8 years, I have worked at elite boarding schools, including the most expensive school in the world.
+- I’ve led initiatives to integrate AI ethics into education, significantly boosting student engagement and achievement.
